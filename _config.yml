@@ -1,0 +1,70 @@
+# Site
+name: "Money2Wealth"
+description: "One place to learn how to grow your money and become wealthy."
+logo: "assets/images/logo.png"
+favicon: "assets/images/favicon.ico"
+baseurl: ""
+disqus: "demowebsite"
+email: "money2wealthindia@gmail.com"
+mailchimp-list: ""
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+authors:
+  aman:
+    name: Aman
+    site:
+    avatar: /assets/images/avatar1.jpg
+    bio: "Hi, I am Aman, the co-creator of Money2Wealth.in. My goal is to share as much personal finance concepts to help you improve your wealth. I hope you like it!"
+    email: money2wealthindia@gmail.com
+    twitter: https://twitter.com/
+
+  himanshu:
+    name: Himanshu
+    site:
+    avatar: /assets/images/avatar2.jpg
+    bio: "Blogger, love to explore new ideas and write on my morning coffee!"
+    email: money2wealthindia@gmail.com
+    twitter: https://twitter.com/
+
+# Defaults
+defaults:
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: aman
+      avatar: /assets/images/avatar1.jpg
+
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude:
+  [
+    README.markdown,
+    package.json,
+    grunt.js,
+    Gruntfile.js,
+    Gruntfile.coffee,
+    node_modules,
+  ]

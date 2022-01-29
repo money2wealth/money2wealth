@@ -6,7 +6,7 @@ favicon: "assets/images/favicon.ico"
 baseurl: ""
 disqus: "demowebsite"
 email: "money2wealthindia@gmail.com"
-mailchimp-list: ""
+mailchimp-list: "https://gmail.us14.list-manage.com/subscribe/post?u=c735c8a54b3748a6a5bd2bcda&amp;id=c7ecd7b32a"
 
 include: ["_pages"]
 permalink: /:title/

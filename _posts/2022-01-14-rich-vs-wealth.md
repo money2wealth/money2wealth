@@ -2,6 +2,7 @@
 layout: post
 title:  "Sadly rich or Happily wealthy ?"
 author: aman
+comments: true
 categories: [ concepts, basics ]
 image: assets/images/money_002.jpg
 tags: [sticky]

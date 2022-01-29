@@ -22,7 +22,7 @@ authors:
   aman:
     name: Aman
     site:
-    avatar: /assets/images/avatar_male.png
+    avatar: assets/images/avatar_male.png
     bio: "Hi, I am Aman, the co-creator of Money2Wealth.in. My goal is to share as much personal finance concepts to help you improve your wealth. I hope you like it!"
     email: money2wealthindia@gmail.com
     twitter: https://twitter.com/
@@ -30,7 +30,7 @@ authors:
   himanshu:
     name: Himanshu
     site:
-    avatar: /assets/images/avatar_male.png
+    avatar: assets/images/avatar_male.png
     bio: "Blogger, love to explore new ideas and write on my morning coffee!"
     email: money2wealthindia@gmail.com
     twitter: https://twitter.com/

@@ -3,7 +3,7 @@ layout: post
 title:  "Many ways to make Income! "
 author: himanshu
 categories: [ concepts, basics ]
-image: assets/images/4.jpg
+image: assets/images/money_001.png
 tags: [featured]
 ---
 

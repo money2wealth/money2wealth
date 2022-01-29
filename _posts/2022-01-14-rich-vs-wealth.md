@@ -3,7 +3,7 @@ layout: post
 title:  "Sadly rich or Happily wealthy ?"
 author: aman
 categories: [ concepts, basics ]
-image: assets/images/7.jpg
+image: assets/images/money_002.jpg
 tags: [sticky]
 ---
 
@@ -28,9 +28,9 @@ a) Mukesh Ambani
 b) Ratan Tata
 c) Mahendar Singh Dhoni
 
-What is your answer? For the first, if you said Vijay Malya or Anil Ambani or Nirav Modi you are correct. All three were rich, they are not rich anymore, they are in deep debt as they misused their richness. They all had large amounts of money with them Vijay Malya (11000 Crore), Anil Ambani (5500 Crore), Nirav Modi (8000 Crore) were the reported numbers. Now, they are either absconding from the country and owe huge amounts of debt to different banks and financial institutions or are struggling to return the money to their lenders. 
+What is your answer? For the first, if you said Vijay Malya or Anil Ambani or Nirav Modi you are correct. All three were rich, they are not rich anymore, they are in deep debt as they misused their richness. They all had large amounts of money with them Vijay Malya (~11000 Crore INR), Anil Ambani (~5500 Crore INR), Nirav Modi (~8000 Crore INR) were the reported numbers. Now, they are either absconding from the country and owe huge amounts of debt to different banks and financial institutions or are struggling to return the money to their lenders. 
 
-For the second, if you said a) Mukesh Ambani or b) Ratan Tata or c) Mahendra Singh Dhoni, you are correct, all 3 are wealthy. They were always disciplined in their spending, worked hard in their life and were fortunate to have the opportunity come their way.  Mukesh Ambani (60B USD), Ratan Tata (XXX Crore), MS Dhoni (YYY Crore). They live inspiring and happy lives.
+For the second, if you said a) Mukesh Ambani or b) Ratan Tata or c) Mahendra Singh Dhoni, you are correct, all 3 are wealthy. They were always disciplined in their spending, worked hard in their life and were fortunate to have the opportunity come their way.  Mukesh Ambani (~90B USD), Ratan Tata (~1B USD), MS Dhoni (~120M USD). They live inspiring and happy lives.
 
 So why is that 1 set of 3 were rich and lost it all, and the other 3 are wealthy and happy and flourishing and growing. It's because one focussed on being rich and enjoying the richness, while the other set focussed on building and growing wealth.
 
